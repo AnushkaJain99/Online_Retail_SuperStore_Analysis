@@ -85,24 +85,9 @@ Evaluates performance across Consumer, Corporate, and Home Office segments.
 
 ---
 
-## 🖼️ Dashboard Screenshots
+## 🖼️ Dashboard Overview
 
 ![Sales Overview](https://github.com/AnushkaJain99/Online_Retail_SuperStore_Analysis/blob/main/Sales_Overview.png)
-![Category Analysis](https://github.com/AnushkaJain99/Online_Retail_SuperStore_Analysis/blob/main/Categorical_Analysis.png)
-
----
-
-## 📂 Project Structure
-online-retail-superstore-analysis/
-├── Categorical_Analysis.png
-├── Sales_Overview.png
-├── SuperStore_Sales_Dataset (1).csv
-├── Superstore_Analysis.pbit
-└── README.md
-
-
-
-
 
 
 ---
